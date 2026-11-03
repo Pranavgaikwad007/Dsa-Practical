@@ -34,4 +34,4 @@ To develop strong problem-solving skills and gain practical knowledge of fundame
 
 [GitHub Profile](https://github.com/Pranavgaikwad007)
 
-*Learning DSA, one practical at a time.*
+*Learning DSA, one practical at a time*
